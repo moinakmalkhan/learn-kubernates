@@ -1,0 +1,5 @@
+apiVersion: vi
+kind: Ingress
+metadata:
+  name: mongo-ingress
+  namespace: mongo-ns
